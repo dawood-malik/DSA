@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m2390\bin\Release\net7.0\m2390.exe
+D:\source\repos\DSA2\m2390\bin\Release\net7.0\m2390.deps.json
+D:\source\repos\DSA2\m2390\bin\Release\net7.0\m2390.runtimeconfig.json
+D:\source\repos\DSA2\m2390\bin\Release\net7.0\m2390.dll
+D:\source\repos\DSA2\m2390\bin\Release\net7.0\m2390.pdb
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.AssemblyInfo.cs
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.dll
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\refint\m2390.dll
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.pdb
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\m2390.genruntimeconfig.cache
+D:\source\repos\DSA2\m2390\obj\Release\net7.0\ref\m2390.dll
