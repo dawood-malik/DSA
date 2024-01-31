@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\e345\bin\Release\net7.0\e345.exe
+D:\source\repos\DSA2\e345\bin\Release\net7.0\e345.deps.json
+D:\source\repos\DSA2\e345\bin\Release\net7.0\e345.runtimeconfig.json
+D:\source\repos\DSA2\e345\bin\Release\net7.0\e345.dll
+D:\source\repos\DSA2\e345\bin\Release\net7.0\e345.pdb
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.AssemblyInfo.cs
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.dll
+D:\source\repos\DSA2\e345\obj\Release\net7.0\refint\e345.dll
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.pdb
+D:\source\repos\DSA2\e345\obj\Release\net7.0\e345.genruntimeconfig.cache
+D:\source\repos\DSA2\e345\obj\Release\net7.0\ref\e345.dll
