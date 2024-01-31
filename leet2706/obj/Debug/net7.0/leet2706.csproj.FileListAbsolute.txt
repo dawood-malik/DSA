@@ -1,0 +1,15 @@
+D:\source\repos\DSA\leet2706\bin\Debug\net7.0\leet2706.exe
+D:\source\repos\DSA\leet2706\bin\Debug\net7.0\leet2706.deps.json
+D:\source\repos\DSA\leet2706\bin\Debug\net7.0\leet2706.runtimeconfig.json
+D:\source\repos\DSA\leet2706\bin\Debug\net7.0\leet2706.dll
+D:\source\repos\DSA\leet2706\bin\Debug\net7.0\leet2706.pdb
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.csproj.AssemblyReference.cache
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.AssemblyInfoInputs.cache
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.AssemblyInfo.cs
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.dll
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\refint\leet2706.dll
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.pdb
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\leet2706.genruntimeconfig.cache
+D:\source\repos\DSA\leet2706\obj\Debug\net7.0\ref\leet2706.dll
