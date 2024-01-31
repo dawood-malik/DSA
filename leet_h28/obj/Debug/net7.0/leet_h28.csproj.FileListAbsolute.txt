@@ -1,0 +1,15 @@
+D:\source\repos\DSA\leet_h28\bin\Debug\net7.0\leet_h28.exe
+D:\source\repos\DSA\leet_h28\bin\Debug\net7.0\leet_h28.deps.json
+D:\source\repos\DSA\leet_h28\bin\Debug\net7.0\leet_h28.runtimeconfig.json
+D:\source\repos\DSA\leet_h28\bin\Debug\net7.0\leet_h28.dll
+D:\source\repos\DSA\leet_h28\bin\Debug\net7.0\leet_h28.pdb
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.csproj.AssemblyReference.cache
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.AssemblyInfoInputs.cache
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.AssemblyInfo.cs
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.dll
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\refint\leet_h28.dll
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.pdb
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\leet_h28.genruntimeconfig.cache
+D:\source\repos\DSA\leet_h28\obj\Debug\net7.0\ref\leet_h28.dll
