@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m2095\bin\Release\net7.0\m2095.exe
+D:\source\repos\DSA2\m2095\bin\Release\net7.0\m2095.deps.json
+D:\source\repos\DSA2\m2095\bin\Release\net7.0\m2095.runtimeconfig.json
+D:\source\repos\DSA2\m2095\bin\Release\net7.0\m2095.dll
+D:\source\repos\DSA2\m2095\bin\Release\net7.0\m2095.pdb
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.AssemblyInfo.cs
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.dll
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\refint\m2095.dll
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.pdb
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\m2095.genruntimeconfig.cache
+D:\source\repos\DSA2\m2095\obj\Release\net7.0\ref\m2095.dll
