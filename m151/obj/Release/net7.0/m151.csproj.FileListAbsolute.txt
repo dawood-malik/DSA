@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m151\bin\Release\net7.0\m151.exe
+D:\source\repos\DSA2\m151\bin\Release\net7.0\m151.deps.json
+D:\source\repos\DSA2\m151\bin\Release\net7.0\m151.runtimeconfig.json
+D:\source\repos\DSA2\m151\bin\Release\net7.0\m151.dll
+D:\source\repos\DSA2\m151\bin\Release\net7.0\m151.pdb
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.AssemblyInfo.cs
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.dll
+D:\source\repos\DSA2\m151\obj\Release\net7.0\refint\m151.dll
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.pdb
+D:\source\repos\DSA2\m151\obj\Release\net7.0\m151.genruntimeconfig.cache
+D:\source\repos\DSA2\m151\obj\Release\net7.0\ref\m151.dll
