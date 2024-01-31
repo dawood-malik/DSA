@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\e392\bin\Release\net7.0\e392.exe
+D:\source\repos\DSA2\e392\bin\Release\net7.0\e392.deps.json
+D:\source\repos\DSA2\e392\bin\Release\net7.0\e392.runtimeconfig.json
+D:\source\repos\DSA2\e392\bin\Release\net7.0\e392.dll
+D:\source\repos\DSA2\e392\bin\Release\net7.0\e392.pdb
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.AssemblyInfo.cs
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.dll
+D:\source\repos\DSA2\e392\obj\Release\net7.0\refint\e392.dll
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.pdb
+D:\source\repos\DSA2\e392\obj\Release\net7.0\e392.genruntimeconfig.cache
+D:\source\repos\DSA2\e392\obj\Release\net7.0\ref\e392.dll
