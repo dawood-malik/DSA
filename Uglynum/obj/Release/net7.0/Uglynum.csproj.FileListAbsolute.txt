@@ -1,0 +1,15 @@
+D:\source\repos\DSA\Uglynum\bin\Release\net7.0\Uglynum.exe
+D:\source\repos\DSA\Uglynum\bin\Release\net7.0\Uglynum.deps.json
+D:\source\repos\DSA\Uglynum\bin\Release\net7.0\Uglynum.runtimeconfig.json
+D:\source\repos\DSA\Uglynum\bin\Release\net7.0\Uglynum.dll
+D:\source\repos\DSA\Uglynum\bin\Release\net7.0\Uglynum.pdb
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.csproj.AssemblyReference.cache
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.AssemblyInfoInputs.cache
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.AssemblyInfo.cs
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.dll
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\refint\Uglynum.dll
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.pdb
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\Uglynum.genruntimeconfig.cache
+D:\source\repos\DSA\Uglynum\obj\Release\net7.0\ref\Uglynum.dll
