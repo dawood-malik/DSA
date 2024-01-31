@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m443\bin\Release\net7.0\m443.exe
+D:\source\repos\DSA2\m443\bin\Release\net7.0\m443.deps.json
+D:\source\repos\DSA2\m443\bin\Release\net7.0\m443.runtimeconfig.json
+D:\source\repos\DSA2\m443\bin\Release\net7.0\m443.dll
+D:\source\repos\DSA2\m443\bin\Release\net7.0\m443.pdb
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.AssemblyInfo.cs
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.dll
+D:\source\repos\DSA2\m443\obj\Release\net7.0\refint\m443.dll
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.pdb
+D:\source\repos\DSA2\m443\obj\Release\net7.0\m443.genruntimeconfig.cache
+D:\source\repos\DSA2\m443\obj\Release\net7.0\ref\m443.dll
