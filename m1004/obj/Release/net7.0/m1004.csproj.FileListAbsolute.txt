@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m1004\bin\Release\net7.0\m1004.exe
+D:\source\repos\DSA2\m1004\bin\Release\net7.0\m1004.deps.json
+D:\source\repos\DSA2\m1004\bin\Release\net7.0\m1004.runtimeconfig.json
+D:\source\repos\DSA2\m1004\bin\Release\net7.0\m1004.dll
+D:\source\repos\DSA2\m1004\bin\Release\net7.0\m1004.pdb
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.AssemblyInfo.cs
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.dll
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\refint\m1004.dll
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.pdb
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\m1004.genruntimeconfig.cache
+D:\source\repos\DSA2\m1004\obj\Release\net7.0\ref\m1004.dll
