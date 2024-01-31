@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m79\bin\Debug\net7.0\m79.exe
+D:\source\repos\DSA2\m79\bin\Debug\net7.0\m79.deps.json
+D:\source\repos\DSA2\m79\bin\Debug\net7.0\m79.runtimeconfig.json
+D:\source\repos\DSA2\m79\bin\Debug\net7.0\m79.dll
+D:\source\repos\DSA2\m79\bin\Debug\net7.0\m79.pdb
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.AssemblyInfo.cs
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.dll
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\refint\m79.dll
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.pdb
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\m79.genruntimeconfig.cache
+D:\source\repos\DSA2\m79\obj\Debug\net7.0\ref\m79.dll
