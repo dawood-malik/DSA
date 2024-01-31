@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m334\bin\Release\net7.0\m334.exe
+D:\source\repos\DSA2\m334\bin\Release\net7.0\m334.deps.json
+D:\source\repos\DSA2\m334\bin\Release\net7.0\m334.runtimeconfig.json
+D:\source\repos\DSA2\m334\bin\Release\net7.0\m334.dll
+D:\source\repos\DSA2\m334\bin\Release\net7.0\m334.pdb
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.AssemblyInfo.cs
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.dll
+D:\source\repos\DSA2\m334\obj\Release\net7.0\refint\m334.dll
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.pdb
+D:\source\repos\DSA2\m334\obj\Release\net7.0\m334.genruntimeconfig.cache
+D:\source\repos\DSA2\m334\obj\Release\net7.0\ref\m334.dll
