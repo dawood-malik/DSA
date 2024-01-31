@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m11\bin\Debug\net7.0\m11.exe
+D:\source\repos\DSA2\m11\bin\Debug\net7.0\m11.deps.json
+D:\source\repos\DSA2\m11\bin\Debug\net7.0\m11.runtimeconfig.json
+D:\source\repos\DSA2\m11\bin\Debug\net7.0\m11.dll
+D:\source\repos\DSA2\m11\bin\Debug\net7.0\m11.pdb
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.AssemblyInfo.cs
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.dll
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\refint\m11.dll
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.pdb
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\m11.genruntimeconfig.cache
+D:\source\repos\DSA2\m11\obj\Debug\net7.0\ref\m11.dll
