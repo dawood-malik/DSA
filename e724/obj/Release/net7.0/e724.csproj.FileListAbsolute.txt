@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\e724\bin\Release\net7.0\e724.exe
+D:\source\repos\DSA2\e724\bin\Release\net7.0\e724.deps.json
+D:\source\repos\DSA2\e724\bin\Release\net7.0\e724.runtimeconfig.json
+D:\source\repos\DSA2\e724\bin\Release\net7.0\e724.dll
+D:\source\repos\DSA2\e724\bin\Release\net7.0\e724.pdb
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.AssemblyInfo.cs
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.dll
+D:\source\repos\DSA2\e724\obj\Release\net7.0\refint\e724.dll
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.pdb
+D:\source\repos\DSA2\e724\obj\Release\net7.0\e724.genruntimeconfig.cache
+D:\source\repos\DSA2\e724\obj\Release\net7.0\ref\e724.dll
