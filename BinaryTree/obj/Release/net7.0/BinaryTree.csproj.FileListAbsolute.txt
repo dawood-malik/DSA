@@ -1,0 +1,15 @@
+D:\source\repos\DSA\BinaryTree\bin\Release\net7.0\BinaryTree.exe
+D:\source\repos\DSA\BinaryTree\bin\Release\net7.0\BinaryTree.deps.json
+D:\source\repos\DSA\BinaryTree\bin\Release\net7.0\BinaryTree.runtimeconfig.json
+D:\source\repos\DSA\BinaryTree\bin\Release\net7.0\BinaryTree.dll
+D:\source\repos\DSA\BinaryTree\bin\Release\net7.0\BinaryTree.pdb
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.csproj.AssemblyReference.cache
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.AssemblyInfoInputs.cache
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.AssemblyInfo.cs
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.dll
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\refint\BinaryTree.dll
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.pdb
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\BinaryTree.genruntimeconfig.cache
+D:\source\repos\DSA\BinaryTree\obj\Release\net7.0\ref\BinaryTree.dll
