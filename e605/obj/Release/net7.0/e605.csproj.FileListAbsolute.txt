@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\e605\bin\Release\net7.0\e605.exe
+D:\source\repos\DSA2\e605\bin\Release\net7.0\e605.deps.json
+D:\source\repos\DSA2\e605\bin\Release\net7.0\e605.runtimeconfig.json
+D:\source\repos\DSA2\e605\bin\Release\net7.0\e605.dll
+D:\source\repos\DSA2\e605\bin\Release\net7.0\e605.pdb
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.AssemblyInfo.cs
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.dll
+D:\source\repos\DSA2\e605\obj\Release\net7.0\refint\e605.dll
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.pdb
+D:\source\repos\DSA2\e605\obj\Release\net7.0\e605.genruntimeconfig.cache
+D:\source\repos\DSA2\e605\obj\Release\net7.0\ref\e605.dll
