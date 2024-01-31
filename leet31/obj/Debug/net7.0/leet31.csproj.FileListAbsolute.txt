@@ -1,0 +1,15 @@
+D:\source\repos\DSA\leet31\bin\Debug\net7.0\leet31.exe
+D:\source\repos\DSA\leet31\bin\Debug\net7.0\leet31.deps.json
+D:\source\repos\DSA\leet31\bin\Debug\net7.0\leet31.runtimeconfig.json
+D:\source\repos\DSA\leet31\bin\Debug\net7.0\leet31.dll
+D:\source\repos\DSA\leet31\bin\Debug\net7.0\leet31.pdb
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.csproj.AssemblyReference.cache
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.AssemblyInfoInputs.cache
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.AssemblyInfo.cs
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.dll
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\refint\leet31.dll
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.pdb
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\leet31.genruntimeconfig.cache
+D:\source\repos\DSA\leet31\obj\Debug\net7.0\ref\leet31.dll
