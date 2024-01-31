@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m238\bin\Debug\net7.0\m238.exe
+D:\source\repos\DSA2\m238\bin\Debug\net7.0\m238.deps.json
+D:\source\repos\DSA2\m238\bin\Debug\net7.0\m238.runtimeconfig.json
+D:\source\repos\DSA2\m238\bin\Debug\net7.0\m238.dll
+D:\source\repos\DSA2\m238\bin\Debug\net7.0\m238.pdb
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.AssemblyInfo.cs
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.dll
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\refint\m238.dll
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.pdb
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\m238.genruntimeconfig.cache
+D:\source\repos\DSA2\m238\obj\Debug\net7.0\ref\m238.dll
