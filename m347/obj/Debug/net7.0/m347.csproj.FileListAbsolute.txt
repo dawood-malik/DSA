@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m347\bin\Debug\net7.0\m347.exe
+D:\source\repos\DSA2\m347\bin\Debug\net7.0\m347.deps.json
+D:\source\repos\DSA2\m347\bin\Debug\net7.0\m347.runtimeconfig.json
+D:\source\repos\DSA2\m347\bin\Debug\net7.0\m347.dll
+D:\source\repos\DSA2\m347\bin\Debug\net7.0\m347.pdb
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.AssemblyInfo.cs
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.dll
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\refint\m347.dll
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.pdb
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\m347.genruntimeconfig.cache
+D:\source\repos\DSA2\m347\obj\Debug\net7.0\ref\m347.dll
