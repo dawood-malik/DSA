@@ -1,0 +1,15 @@
+D:\source\repos\DSA\mulstr\bin\Release\net7.0\mulstr.exe
+D:\source\repos\DSA\mulstr\bin\Release\net7.0\mulstr.deps.json
+D:\source\repos\DSA\mulstr\bin\Release\net7.0\mulstr.runtimeconfig.json
+D:\source\repos\DSA\mulstr\bin\Release\net7.0\mulstr.dll
+D:\source\repos\DSA\mulstr\bin\Release\net7.0\mulstr.pdb
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.csproj.AssemblyReference.cache
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.AssemblyInfoInputs.cache
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.AssemblyInfo.cs
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.dll
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\refint\mulstr.dll
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.pdb
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\mulstr.genruntimeconfig.cache
+D:\source\repos\DSA\mulstr\obj\Release\net7.0\ref\mulstr.dll
