@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m2130\bin\Release\net7.0\m2130.exe
+D:\source\repos\DSA2\m2130\bin\Release\net7.0\m2130.deps.json
+D:\source\repos\DSA2\m2130\bin\Release\net7.0\m2130.runtimeconfig.json
+D:\source\repos\DSA2\m2130\bin\Release\net7.0\m2130.dll
+D:\source\repos\DSA2\m2130\bin\Release\net7.0\m2130.pdb
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.AssemblyInfo.cs
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.dll
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\refint\m2130.dll
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.pdb
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\m2130.genruntimeconfig.cache
+D:\source\repos\DSA2\m2130\obj\Release\net7.0\ref\m2130.dll
