@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\h42\bin\Debug\net7.0\h42.exe
+D:\source\repos\DSA2\h42\bin\Debug\net7.0\h42.deps.json
+D:\source\repos\DSA2\h42\bin\Debug\net7.0\h42.runtimeconfig.json
+D:\source\repos\DSA2\h42\bin\Debug\net7.0\h42.dll
+D:\source\repos\DSA2\h42\bin\Debug\net7.0\h42.pdb
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.AssemblyInfo.cs
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.dll
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\refint\h42.dll
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.pdb
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\h42.genruntimeconfig.cache
+D:\source\repos\DSA2\h42\obj\Debug\net7.0\ref\h42.dll
