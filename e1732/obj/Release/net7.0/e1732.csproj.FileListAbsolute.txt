@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\e1732\bin\Release\net7.0\e1732.exe
+D:\source\repos\DSA2\e1732\bin\Release\net7.0\e1732.deps.json
+D:\source\repos\DSA2\e1732\bin\Release\net7.0\e1732.runtimeconfig.json
+D:\source\repos\DSA2\e1732\bin\Release\net7.0\e1732.dll
+D:\source\repos\DSA2\e1732\bin\Release\net7.0\e1732.pdb
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.AssemblyInfo.cs
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.dll
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\refint\e1732.dll
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.pdb
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\e1732.genruntimeconfig.cache
+D:\source\repos\DSA2\e1732\obj\Release\net7.0\ref\e1732.dll
