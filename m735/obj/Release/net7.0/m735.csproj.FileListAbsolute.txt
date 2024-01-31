@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m735\bin\Release\net7.0\m735.exe
+D:\source\repos\DSA2\m735\bin\Release\net7.0\m735.deps.json
+D:\source\repos\DSA2\m735\bin\Release\net7.0\m735.runtimeconfig.json
+D:\source\repos\DSA2\m735\bin\Release\net7.0\m735.dll
+D:\source\repos\DSA2\m735\bin\Release\net7.0\m735.pdb
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.AssemblyInfo.cs
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.dll
+D:\source\repos\DSA2\m735\obj\Release\net7.0\refint\m735.dll
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.pdb
+D:\source\repos\DSA2\m735\obj\Release\net7.0\m735.genruntimeconfig.cache
+D:\source\repos\DSA2\m735\obj\Release\net7.0\ref\m735.dll
