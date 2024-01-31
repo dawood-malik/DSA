@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m1768\bin\Debug\net7.0\m1768.exe
+D:\source\repos\DSA2\m1768\bin\Debug\net7.0\m1768.deps.json
+D:\source\repos\DSA2\m1768\bin\Debug\net7.0\m1768.runtimeconfig.json
+D:\source\repos\DSA2\m1768\bin\Debug\net7.0\m1768.dll
+D:\source\repos\DSA2\m1768\bin\Debug\net7.0\m1768.pdb
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.AssemblyInfo.cs
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.dll
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\refint\m1768.dll
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.pdb
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\m1768.genruntimeconfig.cache
+D:\source\repos\DSA2\m1768\obj\Debug\net7.0\ref\m1768.dll
