@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m125\bin\Debug\net7.0\m125.exe
+D:\source\repos\DSA2\m125\bin\Debug\net7.0\m125.deps.json
+D:\source\repos\DSA2\m125\bin\Debug\net7.0\m125.runtimeconfig.json
+D:\source\repos\DSA2\m125\bin\Debug\net7.0\m125.dll
+D:\source\repos\DSA2\m125\bin\Debug\net7.0\m125.pdb
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.AssemblyInfo.cs
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.dll
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\refint\m125.dll
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.pdb
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\m125.genruntimeconfig.cache
+D:\source\repos\DSA2\m125\obj\Debug\net7.0\ref\m125.dll
