@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m1071\bin\Debug\net7.0\m1071.exe
+D:\source\repos\DSA2\m1071\bin\Debug\net7.0\m1071.deps.json
+D:\source\repos\DSA2\m1071\bin\Debug\net7.0\m1071.runtimeconfig.json
+D:\source\repos\DSA2\m1071\bin\Debug\net7.0\m1071.dll
+D:\source\repos\DSA2\m1071\bin\Debug\net7.0\m1071.pdb
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.AssemblyInfo.cs
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.dll
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\refint\m1071.dll
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.pdb
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\m1071.genruntimeconfig.cache
+D:\source\repos\DSA2\m1071\obj\Debug\net7.0\ref\m1071.dll
