@@ -1,0 +1,15 @@
+D:\source\repos\DSA2\m1493\bin\Release\net7.0\m1493.exe
+D:\source\repos\DSA2\m1493\bin\Release\net7.0\m1493.deps.json
+D:\source\repos\DSA2\m1493\bin\Release\net7.0\m1493.runtimeconfig.json
+D:\source\repos\DSA2\m1493\bin\Release\net7.0\m1493.dll
+D:\source\repos\DSA2\m1493\bin\Release\net7.0\m1493.pdb
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.csproj.AssemblyReference.cache
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.AssemblyInfoInputs.cache
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.AssemblyInfo.cs
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.dll
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\refint\m1493.dll
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.pdb
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\m1493.genruntimeconfig.cache
+D:\source\repos\DSA2\m1493\obj\Release\net7.0\ref\m1493.dll
